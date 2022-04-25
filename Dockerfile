@@ -10,3 +10,4 @@ RUN mkdir -p /tmp/download && \
  usermod -aG staff,docker jenkins
 
 USER jenkins
+
